@@ -28,7 +28,8 @@
 
 **\<meta>** - As meta tags são usadas para descrever o documento.
 
-**\<body>** - As tags body incluem o conteúdo real que é o documento.
+**\<body>** - As tags body                incluem o conteúdo real que é o documento.
+<hr>
 
 ### **TITLE**
 
