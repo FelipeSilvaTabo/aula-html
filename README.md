@@ -146,3 +146,5 @@ of his left hand</u> which then wandered around in an aimless fashion.</p>
 ## Links
 
 Os links são uma parte importante da world wide web. Eles nos permitem pular facilmente de uma página para outra e navegar pela montanha absoluta de informações que existe por aí. A vinculação eficaz entre as páginas do seu próprio site e outros sites é uma coisa importante a ser considerada como desenvolvedor de sites.
+
+#site html cheatsheet
