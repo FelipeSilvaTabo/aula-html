@@ -1,3 +1,7 @@
+*{
+    font-family:Helvetica;
+}
+
 body{
     width: 900px;
     margin-left: auto;
@@ -38,10 +42,70 @@ text-align: center;
 padding-top: 15px;
 padding-bottom:30px;
 margin-top: 8px;
-margin-bottom: 8px;}
+margin-bottom: 8px;
+color: rgb(214, 136, 40);}
 
-img{
-    height: 100px;
+
+.meu-titulo{
+    color:rgb(112, 153, 243)
+}
+#meutitulocom-id{
+    color: aqua;
+}
+
+/*div{
+    display: block;
+    text-align: center;
+}*/
+                            /* maneiras diferentes de centraizar*/
+div{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+div img{
+    height: 80px;
     width: auto;
 }
 
+.texto-serifa {
+    font-family: 'times new roman';
+    color: brown;
+}
+
+.texto-sem-serifa{
+    font-family:'arial';
+    color: chartreuse;
+}
+
+.texto-mono{
+    font-family:'Courier New';
+    color: darkmagenta;
+}
+
+.maiusculo{
+    text-transform:uppercase ;
+}
+
+ .alinhamento{
+    text-transform:capitalize;
+    text-align: right;
+ }
+ .minusculo{
+    text-transform: lowercase;
+ }
+
+ .espaco{
+    line-height: 50px;
+    letter-spacing: 30px;
+ }
+ 
+ #boxmodel{
+    display: flex;
+    width: 50px;
+    height: 30px;
+    background-color: azure;
+    border: 2px solid #555;
+}
